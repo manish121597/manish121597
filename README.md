@@ -56,6 +56,7 @@
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | **AltGuard** | Giveaway security system — detects alt accounts, VPN abuse, fake entries before payout. Mod dashboard + risk scoring. | Node.js · Discord.js · MongoDB |
+| **School Website (VBPS)** | - News CMS with admin dashboard- Parent-facing pages- Faculty and announcements section- fully customized for school | Next.js · TypeScript · Tailwind CSS · Vercel |
 | **[Echoes of the Oracle](https://echoes-of-the-oracle.vercel.app)** | AI-powered browser roguelite game with live GPT-4o narration | Vanilla JS · Canvas · OpenAI |
 | **CasinoTrack** | Multi-casino affiliate code tracking dashboard with analytics | Node.js · Chart.js · MongoDB |
 | **AesthetIQ** | Flutter fitness app with AI coaching and workout tracking | Flutter · Firebase · OpenAI |
