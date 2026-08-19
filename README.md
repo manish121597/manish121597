@@ -75,7 +75,7 @@
 ## 📍 Currently
 
 - 🛡️ Building and scaling **AltGuard** — giveaway protection for Discord communities
-- 📚 Preparing for **JEE** (targeting IIT Delhi CSE)
+- 📚 Leveling up fast at 19 — **reliability** is the skill I take most seriously
 - 🤝 Open to **freelance projects** in Discord bots, automation & web apps
 
 ---
