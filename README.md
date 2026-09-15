@@ -4,10 +4,10 @@
   I build quietly. Ship when it matters.
 </p>
 <p align="center">
-  <a href="https://altguard.onrender.com">🛡️ AltGuard</a> ·
+  <a href="https://altguardhq.com">🛡️ AltGuard</a> ·
   <a href="https://echoes-of-the-oracle.vercel.app">🎮 Echoes of the Oracle</a> ·
   <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> ·
-  <a href="https://x.com/idoagenticcodin">🐦 X/Twitter</a>
+  <a href="https://x.com/idoagenticcodi">🐦 X/Twitter</a>
 </p>
 
 ---
