@@ -50,7 +50,7 @@
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| **[AltGuard](https://altguard.onrender.com)** | Giveaway security system — detects alt accounts, VPN abuse, fake entries before payout. Mod dashboard + risk scoring. | Node.js · Discord.js · MongoDB |
+| **[AltGuard](https://altguardhq.com)** | Giveaway security system — detects alt accounts, VPN abuse, fake entries before payout. Mod dashboard + risk scoring. | Node.js · Discord.js · MongoDB |
 | **[School Website (VBPS)](https://school-web-beryl.vercel.app)** | News CMS with admin dashboard, parent-facing pages, and a faculty & announcements section — fully customized for the school. | Next.js · TypeScript · Tailwind CSS · Vercel |
 | **[Echoes of the Oracle](https://echoes-of-the-oracle.vercel.app)** | AI-powered browser roguelite game with live GPT-4o narration | Vanilla JS · Canvas · OpenAI |
 | **CasinoTrack** *(private)* | Multi-casino affiliate code tracking dashboard with analytics | Node.js · Chart.js · MongoDB |
