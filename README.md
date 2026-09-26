@@ -70,7 +70,7 @@
 ## 📍 Currently
 - 🛡️ Building and scaling **AltGuard** — giveaway protection for Discord communities
 - 🎬 Prototyping **MomentOS** — AI clip-detection tool for livestream creators
-- 📚 Leveling up fast at 19 — **reliability** is the skill I take most seriously
+- 📚 Leveling up fast at 18 — **reliability** is the skill I take most seriously
 - 🤝 Open to **freelance projects** in Discord bots, automation & web apps
 
 ---
