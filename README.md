@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://altguardhq.com">🛡️ AltGuard</a> ·
   <a href="https://echoes-of-the-oracle.vercel.app">🎮 Echoes of the Oracle</a> ·
-  <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/manishships/">💼 LinkedIn</a> ·
   <a href="https://x.com/manishships">🐦 X/Twitter</a>
 </p>
 
