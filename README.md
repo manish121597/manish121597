@@ -7,7 +7,7 @@
   <a href="https://altguardhq.com">🛡️ AltGuard</a> ·
   <a href="https://echoes-of-the-oracle.vercel.app">🎮 Echoes of the Oracle</a> ·
   <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> ·
-  <a href="https://x.com/idoagenticcodi">🐦 X/Twitter</a>
+  <a href="https://x.com/manishships">🐦 X/Twitter</a>
 </p>
 
 ---
@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish121597&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish121597&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishships&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishships&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
